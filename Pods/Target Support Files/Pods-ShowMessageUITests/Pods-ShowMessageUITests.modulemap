@@ -1,0 +1,6 @@
+framework module Pods_ShowMessageUITests {
+  umbrella header "Pods-ShowMessageUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

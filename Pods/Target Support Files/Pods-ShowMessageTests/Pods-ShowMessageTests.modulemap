@@ -1,0 +1,6 @@
+framework module Pods_ShowMessageTests {
+  umbrella header "Pods-ShowMessageTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
